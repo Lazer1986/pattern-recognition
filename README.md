@@ -1,0 +1,2 @@
+# pattern-recognition
+Распознавание образов
